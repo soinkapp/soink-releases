@@ -1,6 +1,6 @@
-# Soink Releases
+# soink Releases
 
-Official release builds for [Soink](https://soink.ai) — the AI voice co-writer for Mac.
+Official release builds for [soink](https://soink.ai) — the AI voice co-writer for Mac.
 
 ## Download
 
